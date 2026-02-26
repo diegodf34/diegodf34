@@ -1,6 +1,6 @@
-]Hola, soy Diego Delgado 👋 
+Hola, soy Diego Delgado 👋 
 
-¡Bienvenido a mi perfil de GitHub! Soy un estudiante de 2º de Desarrollo de Aplicaciones Web (DAW) en el I.E.S. [cite_start]Domenico Scarlatti[cite: 346]. [cite_start]Me apasiona crear soluciones web eficientes y estoy buscando mi primera oportunidad en el sector tecnológico[cite: 346].
+¡Bienvenido a mi perfil de GitHub! Soy un estudiante de 2º de Desarrollo de Aplicaciones Web (DAW) en el I.E.S.Domenico Scarlatti. Me apasiona crear soluciones web eficientes y estoy buscando mi primera oportunidad en el sector tecnológico.
 
 🛠️ Habilidades y Tecnologías 
 
@@ -20,9 +20,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📌 Proyectos Destacados [cite: 349]
-* 🛒 **Clon E-commerce:** Interfaz responsiva creada con HTML, CSS y JS.
-* ✅ **Gestión de Tareas de profesores:** CRUD completo desarrollado en PHP y MySQL.
-* 🎬 **API Películas:** Backend RESTful con Node.js y Express.
+* 🛒 **Pagina Web Gimnasio:** Interfaz responsiva creada con HTML, CSS y JS.
+* ✅ **Gestión de Tareas de profesores:** CRUD completo desarrollado en vue y json.
+
 
 
 

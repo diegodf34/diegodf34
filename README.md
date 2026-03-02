@@ -19,7 +19,7 @@ Hola, soy Diego Delgado 👋
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📌 Proyectos Destacados [cite: 349]
+### 📌 Proyectos Destacados 
 * 🛒 **Pagina Web Gimnasio:** Interfaz responsiva creada con HTML, CSS y JS.
 * ✅ **Gestión de Tareas de profesores:** CRUD completo desarrollado en vue y json.
 
